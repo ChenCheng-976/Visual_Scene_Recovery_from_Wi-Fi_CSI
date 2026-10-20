@@ -30,6 +30,6 @@ Please download the datasets and refer to the Jupyter directory for notebooks de
 - Stay tuned for upcoming dataset releases and code updates.
 
 
-## Acknowledgments
+## Ownership & Acknowledgments
 This work was owned by Nishio Lab (https://nishio-laboratory.github.io/), Institute of Science Tokyo. We thank all contributors and collaborators for their invaluable efforts in advancing this project.
 
