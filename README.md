@@ -13,7 +13,7 @@ CSI-Inpainter uses CSI time sequences to recover visual scenes, offering superio
 
 ## This repository contains:
 
-- **Office Dataset**: A comprehensive dataset collected in office environments to test and validate the CSI-Inpainter (https://zenodo.org/records/10782964?preview=1).
+- **Office Dataset**: A comprehensive dataset collected in office environments to test and validate the CSI-Inpainter ([https://zenodo.org/records/10782964?preview=1](https://huggingface.co/datasets/cheng-chen-ScienceTky/Semantic_Inpainting/tree/main)).
 - **Factory Dataset**: A specialized dataset from industrial settings to further challenge and evaluate our approach (will be released soon).
 - **CSI-Guided Multimodal Obstacle Removal**: The complete codebase for implementing CSI-Inpainter, including data preprocessing, model training, and evaluation scripts.
 - **Three SATO Baselines**: The complete codebase for implementing two singlemodel baselines (image-only and CSI-only Obstacle Removal) and RSSI-Guided Multimodal Obstacle Removal (i.e., our pervious work [RF-Inpainter](https://ieeexplore.ieee.org/document/9919801)).
